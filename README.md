@@ -1,4 +1,4 @@
-# Pgadmin4.1.-dev
+# Pgadmin4.1.odev
 1.ödev
 --1.)film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 select title,description from film
